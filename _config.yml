@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Muzry"
   avatar           : "./assets/avatar/avatar.png"
-  bio              : "I am an amazing person."
+  bio              : "一个幼儿开发者。"
   location         : "Hangzhou,Zhejiang,China"
   email            : "muzrry@gmail.com"
   uri              : 
@@ -105,7 +105,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  steam            : "https://steamcommunity.com/id/muzry/"
   tumblr           :
   twitter          :
   vine             :
