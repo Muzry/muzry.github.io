@@ -83,20 +83,20 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Muzry"
+  avatar           : "./assets/avatar/avatar.png"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  location         : "Hangzhou,Zhejiang,China"
+  email            : "muzrry@gmail.com"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
-  gitlab           :
+  github           : "https://github.com/Muzry"
+  gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   tumblr           :
   twitter          :
   vine             :
-  weibo            :
+  weibo            : 
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
@@ -251,4 +251,10 @@ defaults:
       comments: true
       share: true
       related: true
-
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
